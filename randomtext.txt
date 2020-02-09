@@ -1,0 +1,26 @@
+
+23.92.180.0/23
+122.56.40.0/22
+170.254.210.0/23
+170.254.208.0/22
+173.227.72.0/21
+200.219.172.0/24
+203.126.96.0/19
+210.233.64.0/20
+
+Are you available?/Are you at your desk?
+
+Request
+Follow up
+Urgent/Important
+Are you available?/Are you at your desk?
+Payment Status
+Hello
+Other
+Purchase
+Invoice Due
+Re:
+Direct Deposit
+Expenses
+Payroll
+Remember me?
